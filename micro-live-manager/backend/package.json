@@ -31,7 +31,7 @@
     "@nestjs/platform-socket.io": "^7.0.7",
     "@nestjs/typeorm": "^7.0.0",
     "@nestjs/websockets": "^7.0.7",
-    "@types/lodash": "^4.14.150",
+    "@types/lodash": "^4.14.166",
     "bcrypt": "^4.0.1",
     "grpc": "^1.24.2",
     "lodash": "^4.17.15",
