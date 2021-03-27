@@ -22,7 +22,7 @@
     "typeorm": "ts-node -r tsconfig-paths/register ./node_modules/typeorm/cli.js"
   },
   "dependencies": {
-    "@golevelup/nestjs-rabbitmq": "^1.15.0",
+    "@golevelup/nestjs-rabbitmq": "^1.16.1",
     "@grpc/proto-loader": "^0.5.4",
     "@nestjs/common": "^7.0.0",
     "@nestjs/config": "^0.4.0",
