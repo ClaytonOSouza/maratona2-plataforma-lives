@@ -33,10 +33,10 @@
     "@nestjs/typeorm": "^7.0.0",
     "@nestjs/websockets": "^7.0.8",
     "@types/amqplib": "^0.5.13",
-    "grpc": "^1.24.2",
+    "grpc": "^1.24.8",
     "mysql": "^2.18.1",
     "reflect-metadata": "^0.1.13",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "rxjs": "^6.5.4",
     "socket.io-redis": "^5.2.0",
     "typeorm": "^0.2.24"
