@@ -22,14 +22,14 @@
     "typeorm": "ts-node -r tsconfig-paths/register ./node_modules/typeorm/cli.js"
   },
   "dependencies": {
-    "@golevelup/nestjs-rabbitmq": "^1.15.0",
+    "@golevelup/nestjs-rabbitmq": "^4.0.0",
     "@grpc/proto-loader": "^0.5.4",
-    "@nestjs/common": "^7.0.0",
+    "@nestjs/common": "^7.5.0",
     "@nestjs/config": "^0.4.0",
-    "@nestjs/core": "^7.0.0",
+    "@nestjs/core": "^7.5.5",
     "@nestjs/microservices": "^7.0.8",
     "@nestjs/platform-express": "^7.0.0",
-    "@nestjs/platform-socket.io": "^7.0.8",
+    "@nestjs/platform-socket.io": "^8.1.2",
     "@nestjs/typeorm": "^7.0.0",
     "@nestjs/websockets": "^7.0.8",
     "@types/amqplib": "^0.5.13",
@@ -39,7 +39,7 @@
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4",
     "socket.io-redis": "^5.2.0",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.3.12"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.0.0",
