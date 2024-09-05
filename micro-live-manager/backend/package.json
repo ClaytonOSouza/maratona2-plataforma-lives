@@ -23,12 +23,12 @@
   },
   "dependencies": {
     "@grpc/proto-loader": "^0.5.4",
-    "@nestjs/common": "^7.0.0",
+    "@nestjs/common": "^7.5.0",
     "@nestjs/config": "^0.4.0",
-    "@nestjs/core": "^7.0.0",
+    "@nestjs/core": "^7.5.5",
     "@nestjs/microservices": "^7.0.8",
     "@nestjs/platform-express": "^7.0.0",
-    "@nestjs/platform-socket.io": "^7.0.7",
+    "@nestjs/platform-socket.io": "^8.1.2",
     "@nestjs/typeorm": "^7.0.0",
     "@nestjs/websockets": "^7.0.7",
     "@types/lodash": "^4.14.150",
@@ -36,13 +36,13 @@
     "grpc": "^1.24.2",
     "lodash": "^4.17.15",
     "mysql": "^2.18.1",
-    "peer": "^0.5.2",
+    "peer": "^1.0.0",
     "redis": "^3.0.2",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.5.4",
     "socket.io-redis": "^5.2.0",
-    "typeorm": "^0.2.24"
+    "typeorm": "^0.3.12"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.0.0",
